@@ -22,12 +22,27 @@ export default defineConfig({
             collapsed: true,
             items: [
               {
-                text: "camelCase.js",
-                link: "/js/core/camel-case.js",
+                text: "camelCase",
+                link: "/js/core/camel-case",
               },
               {
-                text: "flatten.js",
-                link: "/js/core/flatten.js",
+                text: "flatten",
+                link: "/js/core/flatten",
+              },
+              {
+                text: "copyToClipboard",
+                link: "/js/core/copy-to-clipboard",
+              },
+            ],
+          },
+          {
+            text: "Validates",
+            link: "/js/validates/index",
+            collapsed: true,
+            items: [
+              {
+                text: "File extension",
+                link: "/js/validates/file-extension",
               },
             ],
           },

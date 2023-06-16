@@ -17,4 +17,4 @@ const message = ref('')
 
 <input v-model="message" class="input" placeholder="input here" />
 
-<p>Message is: {{ toCamelCase(message) }}</p>
+<p>Result is: {{ toCamelCase(message) }}</p>

@@ -1,8 +1,3 @@
----
-next: false
----
-
-
 # flatten.js
 
 ```js
