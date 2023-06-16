@@ -1,0 +1,10 @@
+.input {
+  cursor: pointer;
+  justify-content: flex-start;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 0 10px 0 12px;
+  width: 100%;
+  height: 40px;
+  background-color: #161618;
+}

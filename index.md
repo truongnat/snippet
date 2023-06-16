@@ -8,18 +8,23 @@ hero:
   tagline: My great project tagline
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Javascript
+      link: /js/intro
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Contact me 🥰
+      link: https://t.me/truongnat
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Javascript
+    icon: ⚡
+    details: All the code related to everyday tasks like filtering, mapping,...
+    link: /js/intro
+  - title: Algorithm & Performance
+    icon: 🚀
+    details: A few small algorithms or ways to speed up performance
+    link: /ap/intro
+  - title: Another
+    details: Tricks related to other techniques
+    icon: 📝
 ---
 
