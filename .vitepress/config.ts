@@ -61,6 +61,38 @@ export default defineConfig({
                 text: "difference",
                 link: "/javascript/core/difference",
               },
+              {
+                text: "arrayToCsv",
+                link: "/javascript/core/array-to-csv",
+              },
+              {
+                text: "isType",
+                link: "/javascript/core/is-type",
+              },
+              {
+                text: "isNill",
+                link: "/javascript/core/is-nill",
+              },
+              {
+                text: "isNull",
+                link: "/javascript/core/is-null",
+              },
+              {
+                text: "isNumber",
+                link: "/javascript/core/is-number",
+              },
+              {
+                text: "isBrowser",
+                link: "/javascript/core/is-browser",
+              },
+              {
+                text: "isPromiseLike",
+                link: "/javascript/core/is-promise-like",
+              },
+              {
+                text: "scrollToTop",
+                link: "/javascript/core/scroll-to-top",
+              },
             ],
           },
           {
@@ -114,4 +146,5 @@ export default defineConfig({
     },
   },
   lastUpdated: true,
+
 });
